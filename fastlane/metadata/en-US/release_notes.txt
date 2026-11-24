@@ -1,0 +1,1 @@
+Play 16 puzzle sheets with fold hints, Undo, and locally saved progress. The Album keeps your best print for each completed sheet.

@@ -1,0 +1,101 @@
+{
+  "whiskers": [
+    "whiskers+",
+    "ear-",
+    "go"
+  ],
+  "stream": [
+    "body+",
+    "go",
+    "tail-"
+  ],
+  "shutter": [
+    "shutter-",
+    "inner+",
+    "go"
+  ],
+  "banks": [
+    "body-",
+    "go",
+    "tail-",
+    "bank+"
+  ],
+  "moon": [
+    "lantern-",
+    "go"
+  ],
+  "reverse": [
+    "lantern+",
+    "track-",
+    "go"
+  ],
+  "door": [
+    "screen-",
+    "door+",
+    "track-",
+    "go"
+  ],
+  "shadow": [
+    "shadow0",
+    "shadow-",
+    "track-",
+    "go"
+  ],
+  "ridge": [
+    "ridge+",
+    "ear-",
+    "go",
+    "ridge0",
+    "ridge-"
+  ],
+  "fork": [
+    "ridge+",
+    "turn-",
+    "go",
+    "ridge0",
+    "ridge-"
+  ],
+  "garden": [
+    "roof+",
+    "ridge+",
+    "go",
+    "garden-",
+    "ridge0",
+    "ridge-"
+  ],
+  "jump": [
+    "ridge+",
+    "go",
+    "tail-",
+    "tail0",
+    "tail+"
+  ],
+  "seals": [
+    "track-",
+    "lantern-",
+    "go"
+  ],
+  "nested": [
+    "lantern+",
+    "go",
+    "bridge+",
+    "inner-"
+  ],
+  "screen": [
+    "screen+",
+    "tail+",
+    "seal+",
+    "go",
+    "tail0",
+    "tail-",
+    "track-"
+  ],
+  "home": [
+    "bridge+",
+    "go",
+    "tail+",
+    "tail0",
+    "tail-",
+    "window-"
+  ]
+}

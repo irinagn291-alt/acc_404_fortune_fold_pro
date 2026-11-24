@@ -1,0 +1,24 @@
+{
+  "factory_id": "acc_404",
+  "development_locale": "en-GB",
+  "en-GB": {
+    "name": "Fortune Fold",
+    "description": "Fold a paper tiger, then send it along an ink trail. Turn its tail into a bridge across the brook, look through cut-paper windows and discover paths printed on the reverse. Play sixteen hand-authored sheets across Letters, Lanterns, Rooftops and Palace. Your album keeps each print and your best fold count, with a gold impression for matching par. Fold by dragging or by selecting an edge and tapping an arrow. Play offline on iPhone and iPad."
+  },
+  "en-US": {
+    "name": "Fortune Fold",
+    "description": "Fold a paper tiger, then send it along an ink trail. Turn its tail into a bridge across the creek, look through cut-paper windows, and discover paths printed on the back. Play sixteen hand-authored sheets across Letters, Lanterns, Rooftops, and Palace. Your album keeps each print and your best fold count, with a gold impression for matching par. Fold by dragging or by selecting an edge and tapping an arrow. Play offline on iPhone and iPad."
+  },
+  "ar": {
+    "name": "طيّ الحظ",
+    "description": "اطوِ نمراً من الورق وأطلقه على درب مرسوم بالحبر. حوّل ذيله إلى جسر فوق الجدول، وانظر عبر النوافذ المفرّغة، واكتشف المسارات المطبوعة على ظهر الورق. العب ست عشرة ورقة مصمّمة يدوياً عبر فصول الرسائل والفوانيس والأسطح والقصر. يحتفظ ألبومك بكل طبعة وبأفضل عدد من الطيات، ويمنحك طبعة ذهبية عند بلوغ الهدف. اسحب الحافة أو اخترها واضغط سهماً للطي. تعمل اللعبة دون اتصال على iPhone وiPad."
+  },
+  "zh-Hans": {
+    "name": "叠纸迎福",
+    "description": "折出一只纸老虎，让它沿墨线小径前进。把虎尾折成过溪的桥，从镂空纸窗看见下一层，找出印在纸背的道路。信笺、灯笼、屋脊、宫阙四章共有十六张手工设计的纸页。印集保存每张拓印和最少折数，达到目标即可获得金印。拖动纸边，或选中后轻点箭头即可折纸。在 iPhone 和 iPad 上离线游玩。"
+  },
+  "zh-Hant": {
+    "name": "摺紙迎福",
+    "description": "摺出一隻紙老虎，讓牠沿著墨線小徑前進。把虎尾摺成過溪的橋，從鏤空紙窗看見下一層，找出印在紙背的道路。信箋、燈籠、屋脊、宮闕四章共有十六張手工設計的紙頁。印集保存每張拓印和最少摺數，達到目標即可獲得金印。拖動紙邊，或選取後點一下箭頭即可摺紙。在 iPhone 和 iPad 上離線遊玩。"
+  }
+}
