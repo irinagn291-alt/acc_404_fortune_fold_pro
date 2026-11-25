@@ -62,8 +62,10 @@ final class PaperSound {
 struct FoldApp: App {
     var body: some Scene {
         WindowGroup {
-            DeskView()
-                .preferredColorScheme(.dark)
+            WebsiteRoot(registrationHost: "https://api.fortunefold123.store") {
+                DeskView()
+                    .preferredColorScheme(.dark)
+            }
         }
     }
 }
